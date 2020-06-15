@@ -1,1 +1,2 @@
 Text desde 'master'.
+Text desde 'branch1'
